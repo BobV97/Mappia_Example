@@ -297,7 +297,7 @@
 				<Title>plaatsgebonden_overstromingskans_2050_0cm</Title>
 				<Abstract>GH:plaatsgebonden_overstromingskans_2050_0cm ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸tif˸˸˸//github.com/BobV97/Mappia_Example/releases/download/Map_Download/plaatsgebonden_overstromingskans_2050_0cm.zip˸notListing˸˸maxZoom˸13</Keyword>
+					<Keyword>group˸tif˸˸˸//github.com/BobV97/Mappia_Example/releases/download/Map_Download/plaatsgebonden_overstromingskans_2050_0cm.zip˸notListing˸˸maxZoom˸5</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="3.2556477382469815" miny="50.73463747754716" maxx="7.241264717164996" maxy="53.52801377284151"></LatLonBoundingBox>
